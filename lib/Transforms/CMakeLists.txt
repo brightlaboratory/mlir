@@ -9,6 +9,7 @@ add_llvm_library(MLIRTransforms
   Inliner.cpp
   LoopCoalescing.cpp
   LoopFusion.cpp
+  LoopInterchange.cpp
   LoopInvariantCodeMotion.cpp
   LoopTiling.cpp
   LoopUnrollAndJam.cpp
